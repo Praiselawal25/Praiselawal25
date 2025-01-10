@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Praiselawal25
+- 👋 Hi, I’m @Angelo A. Lucas25
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Praiselawal25/Praiselawal25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Angelo A.Lucas25/Angelo A.lucas25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
